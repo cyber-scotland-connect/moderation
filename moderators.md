@@ -12,3 +12,4 @@
 - Federico Charosky (Quorum Cyber)
 - Rich Macfarlane (Edinburgh Napier University)
 - Gary Hunter (Skyscanner)
+- Sean Wright (Secureworks / OWASP Scotland)
