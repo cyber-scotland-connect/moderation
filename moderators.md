@@ -15,3 +15,4 @@
 - Sean Wright (Secureworks / OWASP Scotland)
 - Miguel Marques (Commissum / DC44131)
 - David Stubley (7 Elements)
+- Sophie Lanc (Cyborn)
