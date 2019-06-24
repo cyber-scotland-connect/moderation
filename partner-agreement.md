@@ -1,0 +1,9 @@
+**Our Partners**
+Incredible organisations who lead the way in engaging with the community in Scotland or are indeed a community themselves, and have outwardly agreed to CSC’s Partner Agreement to signal their support for what we do, encourage their employees, students or customers involvement, and more importantly into promoting (or continuing to promote) our values within their organisation, and indeed our industry.
+
+**Agreement**
+*This agreement isn’t designed to be an enforceable legal contract, but it just to outline the expectations we have for those organisations we partner with to best serve the Scottish cyber-based community and it outlines what those exceptions are and what you can expect from us during the partnership.*
+
+As an official ‘partner' of Cyber Scotland Connect (CSC), we/I commit to engage with, promote and where possible support CSC’s mission. Through partner status being offered, CSC acknowledges that the ‘partner’ aligns with similar values and/or mission to CSC and therefore wishes to work together to support, enable and advance the cybersecurity community in Scotland. It is acknowledged that CSC as recognition of this support will publicly thanks and acknowledge all resource-based contribution at the time of it being contributed to its community and that no other commitment of publicity or ‘return’ should be expected. It is also expected that both organisations promote this partnership publicly as to benefit both organisations, but without the assumption that all activities of the said organisation are endorsed.
+
+*This agreement may be updated as the understanding of what partnerships should become over time, history can be view in the commit history.*
