@@ -1,9 +1,9 @@
 # CSC's Moderators
 
-- Harry McLaren (ECS Security)
-- Stu Hirst (Photobox)
+- Harry McLaren (Adarma)
+- Stu Hirst (Just Eat)
 - Magda de Jager (EasyJet)
-- Jamie O’Hare (Edinburgh Napier University / ENUSEC)
+- Jamie O’Hare (Edinburgh Napier University)
 - Jamie Graves (ZoneFox)
 - Chelsea Jarvie (Scottish Government)
 - Jordan Schroeder (HEFESTIS)
