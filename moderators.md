@@ -5,7 +5,7 @@
 - Magda de Jager (EasyJet)
 - Jamie O’Hare (Edinburgh Napier University)
 - Jamie Graves (ZoneFox)
-- Chelsea Jarvie (Scottish Government)
+- Chelsea Jarvie (CJ Cyber)
 - Jordan Schroeder (HEFESTIS)
 - Liam Somerville (Fanduel)
 - Rory Alsop (HSBC)
