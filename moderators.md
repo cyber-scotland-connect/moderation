@@ -7,7 +7,7 @@
 - Jamie Graves (ZoneFox)
 - Chelsea Jarvie (CJ Cyber)
 - Jordan Schroeder (HEFESTIS)
-- Liam Somerville (Fanduel)
+- Liam Somerville (Adarma)
 - Rory Alsop (HSBC)
 - Federico Charosky (Quorum Cyber)
 - Rich Macfarlane (Edinburgh Napier University)
