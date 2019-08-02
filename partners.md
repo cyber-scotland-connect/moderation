@@ -5,3 +5,4 @@
 - DefCon Edinburgh (DC44131) - Auhorised by Miguel Marques
 - (ISC)² Scotland Chapter - Auhorised by Manish Shah
 - SBRC - Auhorised by Eamonn Keane
+- Turning Testers - Authorised by Toni Scullion
