@@ -6,3 +6,4 @@
 - (ISC)² Scotland Chapter - Auhorised by Manish Shah
 - SBRC - Auhorised by Eamonn Keane
 - Turing's Testers - Authorised by Toni Scullion
+- WiCSScot - Authorised by Kinga Kieczkowska
