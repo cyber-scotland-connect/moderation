@@ -3,7 +3,7 @@
 - Harry McLaren (Adarma)
 - Stu Hirst (Just Eat)
 - Magda de Jager (EasyJet)
-- Jamie O’Hare (Edinburgh Napier University)
+- Jamie O’Hare (Abertay University)
 - Jamie Graves (ZoneFox)
 - Chelsea Jarvie (CJ Cyber)
 - Jordan Schroeder (HEFESTIS)
