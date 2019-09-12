@@ -7,3 +7,6 @@
 - SBRC - Auhorised by Eamonn Keane
 - Turing's Testers - Authorised by Toni Scullion
 - WiCSScot - Authorised by Kinga Kieczkowska
+- The Data Lab - Authorised by Jude McCorry
+- Scotland Women in Technology (SWiT) - Authorised by Elaine McKechnie
+- TechVets - Authorised by Mark Milton
