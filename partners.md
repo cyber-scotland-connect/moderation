@@ -10,3 +10,4 @@
 - The Data Lab - Authorised by Jude McCorry
 - Scotland Women in Technology (SWiT) - Authorised by Elaine McKechnie
 - TechVets - Authorised by Mark Milton
+- University of Strathclyde - Authorised by Xavier Bellekens
