@@ -16,3 +16,5 @@
 - Miguel Marques (Commissum / DC44131)
 - David Stubley (7 Elements)
 - Sophie Lanc (Cyborn)
+- Richard Grey (FreeAgent)
+- Rob Jansson (RBS / OWASP Scotland)
