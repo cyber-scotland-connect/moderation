@@ -15,3 +15,4 @@
 - ScotlandIS - Authorised by Ciara Mitchell
 - SmartSTEMs - Authorised by Stuart Macdonald
 - Abertay University - Authorised by Natalie Coull
+- Turing Fest - Authorised by Tannya Gaxiola
