@@ -10,3 +10,4 @@
 - Gary Hunter (TrustPilot)
 - Sophie Lanc (Cyborn)
 - Richard Grey (FreeAgent)
+- Miguel Marques (Quorum Cyber)
